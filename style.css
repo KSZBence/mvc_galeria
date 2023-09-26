@@ -1,0 +1,27 @@
+header{
+    padding: 2vw;
+    text-align: center;
+}
+
+.nagykep{
+    text-align: center;
+}
+
+
+
+button{
+    padding: 1em;
+    width: 5vw;
+    margin: 1vw;
+    margin-top: 0.5vw;
+}
+
+button:hover{
+    background-color: rgb(113, 143, 168);
+    color: white;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20vw;
+}
